@@ -1,0 +1,1 @@
+<script type="text/javascript" >alert("ЁЖю╢ак");</script>
